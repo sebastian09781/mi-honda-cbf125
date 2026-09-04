@@ -15,3 +15,6 @@ debug.keystore
 *.aab
 fix_main.py
 cbf_header.txt
+**/documentos/
+*documentos*
+
