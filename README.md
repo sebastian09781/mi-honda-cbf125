@@ -1,7 +1,7 @@
 # 🏍️ Mi Honda CBF-125 · Control y Mantenimiento Inteligente
 
 <p align="center">
-  <img src="screenshots/01_inicio.png" alt="Honda CBF-125 Banner" width="450" />
+  <img src="screenshots/icon.png" alt="Honda CBF-125 Icon" width="200" />
 </p>
 
 <p align="center">
