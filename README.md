@@ -1,8 +1,33 @@
 # 🏍️ Mi Honda CBF-125 · Control y Mantenimiento Inteligente
 
+<p align="center">
+  <img src="screenshots/01_inicio.png" alt="Honda CBF-125 Banner" width="450" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/sebastian09781/mi-honda-cbf125/releases/latest">
+    <img src="https://img.shields.io/badge/Descargar%20APK-v1.0.0-E53935?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+  <img src="https://img.shields.io/badge/Plataforma-Android%208.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform" />
+  <img src="https://img.shields.io/badge/Kotlin-2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+</p>
+
 Aplicación nativa para **Android** desarrollada con **Kotlin** y **Jetpack Compose**, diseñada especialmente para propietarios y entusiastas de la motocicleta **Honda CBF-125**.
 
-Permite gestionar el odómetro en tiempo real, llevar un control riguroso de mantenimientos preventivos según el manual de taller de fábrica, guardar y consultar documentos de tránsito en PDF sin conexión a internet, registrar tanqueos y gastos, y programar alertas sincronizadas directamente con **Google Calendar**.
+Permite gestionar el odómetro en tiempo real, llevar un control riguroso de mantenimientos preventivos según el manual de taller de fábrica, guardar y consultar documentos de tránsito en PDF sin conexión a internet, registrar tanqueos y gastos con estaciones colombianas, y programar alertas sincronizadas directamente con **Google Calendar**.
+
+---
+
+## 📸 Capturas de Pantalla
+
+| Inicio y Odómetro | Resumen y Calendario | Mi Moto & 3D Studio |
+| :---: | :---: | :---: |
+| <img src="screenshots/01_inicio_principal.png" width="260" /> | <img src="screenshots/01_inicio_resumen.png" width="260" /> | <img src="screenshots/02_mi_moto.png" width="260" /> |
+
+| Mantenimientos Programados | Gastos y Combustible | Billetera Digital Offline |
+| :---: | :---: | :---: |
+| <img src="screenshots/03_servicios.png" width="260" /> | <img src="screenshots/04_gastos.png" width="260" /> | <img src="screenshots/05_papeles.png" width="260" /> |
 
 ---
 
@@ -60,9 +85,15 @@ Permite gestionar el odómetro en tiempo real, llevar un control riguroso de man
 * **Visor de Documentos:** `PdfRenderer` nativo de Android
 * **Integración del Sistema:** Android `CalendarContract`, Storage Access Framework (SAF) y FileProvider
 
+## 📲 Descargar e Instalar
+
+Puedes descargar directamente el instalador APK oficial desde la sección de lanzamientos:
+
+👉 **[Descargar APK v1.0.0 (Releases)](https://github.com/sebastian09781/mi-honda-cbf125/releases/latest)**
+
 ---
 
-## 🚀 Instalación y Compilación Local
+## 🚀 Compilación Local
 
 ### Requisitos
 * [Android Studio Hedgehog / Ladybug](https://developer.android.com/studio) o superior.
