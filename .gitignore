@@ -1,0 +1,17 @@
+*.iml
+.gradle/
+.kotlin/
+local.properties
+.idea/
+.DS_Store
+build/
+*/build/
+captures/
+.externalNativeBuild
+.cxx
+.env
+debug.keystore
+*.apk
+*.aab
+fix_main.py
+cbf_header.txt

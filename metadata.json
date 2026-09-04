@@ -1,0 +1,6 @@
+{
+  "name": "My Honda",
+  "description": "Aplicación de control de mantenimiento, historial de servicios, tanqueos y gastos para Honda CBF 125.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- Set the splash screen background -->
+        <item name="windowSplashScreenBackground">#000000</item>
+        <!-- Hide the native icon to avoid circular cropping -->
+        <item name="windowSplashScreenAnimatedIcon">@android:color/transparent</item>
+        <item name="postSplashScreenTheme">@style/Theme.MyApplication</item>
+    </style>
+    <style name="Theme.MyApplication" parent="android:Theme.DeviceDefault.NoActionBar" />
+</resources>
